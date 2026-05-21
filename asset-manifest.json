@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lebanese-basketball/static/css/main.685de60c.css",
+    "main.js": "/lebanese-basketball/static/js/main.ba57e07f.js",
+    "index.html": "/lebanese-basketball/index.html",
+    "main.685de60c.css.map": "/lebanese-basketball/static/css/main.685de60c.css.map",
+    "main.ba57e07f.js.map": "/lebanese-basketball/static/js/main.ba57e07f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.685de60c.css",
+    "static/js/main.ba57e07f.js"
+  ]
+}
